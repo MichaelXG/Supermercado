@@ -51,7 +51,7 @@ if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
  
 st.set_page_config(
-    page_title="Produtos",
+    page_title="Supermercado MXG",
     page_icon=":shopping_trolley:",
     layout="wide",
     initial_sidebar_state="expanded"
